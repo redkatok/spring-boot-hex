@@ -1,4 +1,4 @@
-package com.katkov.springboothex.adapters.api.mappers;
+package com.katkov.springboothex.adapters.api.web.mappers;
 
 
 import java.util.Set;

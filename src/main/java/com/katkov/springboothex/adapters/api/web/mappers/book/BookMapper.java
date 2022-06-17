@@ -1,4 +1,4 @@
-package com.katkov.springboothex.adapters.api.mappers.book;
+package com.katkov.springboothex.adapters.api.web.mappers.book;
 
 import com.katkov.springboothex.domain.domaindto.book.AddBookDomainDto;
 import com.katkov.springboothex.domain.mvcdto.book.AddBookMvcDto;
